@@ -1,0 +1,53 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.synconset.imagepicker": {
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        },
+        "cordova-plugin-headercolor": {
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        },
+        "cordova-plugin-navigationbar": {
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        },
+        "jpush-phonegap-plugin": {
+            "APP_KEY": "9925f8ab5db6319ba663719c",
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.ionicframework.cutepuppypics579485"
+        }
+    }
+}
